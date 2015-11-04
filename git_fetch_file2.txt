@@ -1,1 +1,5 @@
+We can fetch files from the remote repo using the command git fetch as: 
+    git fetch <host>
+    git fetch <host><branch>
 
+And the fetched repo can be read as : host/branch OR FETCH_HEAD
