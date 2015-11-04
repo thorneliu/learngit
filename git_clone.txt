@@ -1,0 +1,4 @@
+You can use git clone to clone a rep from other reop(local or remote)
+Such as:
+    git clone https://github.com/thorneliu/learngit.git
+
