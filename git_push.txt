@@ -1,0 +1,8 @@
+The "git push" command can be used to push some local upate to remote host.
+    git push <host> <local_branch>:<remote_branch>
+
+
+    git push origin master (:remote omited)
+    To push local master branch to origin/master
+
+
