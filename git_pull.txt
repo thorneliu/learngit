@@ -1,0 +1,9 @@
+The "git pull" command can be used to fetch the update of some remote branch and merge it to local branch.
+A complete sytax of this command:
+    git pull <host> <remote_branch>:<local_branch>
+    git pull origin next:master
+If the remote branch is merge with lcoal current branch, the colon(:) can be omitted.
+    git pull origin next
+    = git fetch origin
+      git merge orgin/next
+
