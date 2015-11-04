@@ -5,3 +5,9 @@ We can fetch files from the remote repo using the command git fetch as:
 And the fetched repo can be read as : host/branch OR FETCH_HEAD
 
 Now I am modifying the file in local master branch.
+
+And this modification was pulled to a nonexist remote repo. 
+
+Ok, this branch was created after my cmd: git push origin master:Remote_Repo_nonexist_3
+
+Now I am modifying this files remotely.
